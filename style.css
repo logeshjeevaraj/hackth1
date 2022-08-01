@@ -1,0 +1,57 @@
+
+body{
+    background:url("https://cdn.pixabay.com/photo/2018/10/01/13/53/droplet-3716288__340.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    text-align: center;
+ 
+}
+#outcontainer{
+    height: 300px;
+    width: 300px;
+    background-color: blanchedalmond;
+    border: 5px solid black;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-stretch: expanded;
+    letter-spacing: 13px;
+    padding-right: 100px;
+}
+
+#container{
+    height: 100px;
+    width: 300px;
+    background-color: azure;
+    border: 5px solid black;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.inpcontainer{
+    padding-top: 30px;
+    display: grid;
+    place-content: center;
+    text-align: center;
+}
+
+#submit{
+    padding-top: 10px;
+    display: grid;
+    place-content: center;
+    text-align: center;
+
+}
+
+.tit{
+    padding-left: 30px;
+    padding-bottom: 50px;
+}
